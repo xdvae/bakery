@@ -114,6 +114,14 @@
     </form>
   </div>
 </div>
+<footer class="footer">
+  <div class="footer-content">
+    <p>© 2025 Sweet Crumbs Bakery. All rights reserved.</p>
+    <p><a href="#menu">Menu</a> | <a href="#gallery">Gallery</a> | <a href="#about">About Us</a></p>
+    <button class="btn-admin" onclick="window.location.href='admin.php'">Admin Page</button>
+  </div>
+</footer>
+
 
 <script>
   function openOrder(item) {
